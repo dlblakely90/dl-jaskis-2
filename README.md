@@ -1,1 +1,1 @@
-# dl-jaskis-2
+This is an activity for FSWD Lesson 6 - JASKIS.
